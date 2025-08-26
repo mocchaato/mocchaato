@@ -2,7 +2,7 @@
 <h3 align="left">🐰<em>I am Moccha, a student from Brazil that is currently studying for med school entrance
         exams</em>🐰</h3>
 
-<p>&nbsp;<a style="float:left;" href="https://twitter.com/moccha_ato" target="blank"><img
+<p><a style="float:left;" href="https://twitter.com/moccha_ato" target="blank"><img
             src="https://img.shields.io/twitter/follow/moccha_ato?logo=twitter&style=for-the-badge"
             alt="moccha_ato" /></a>
 </p >&nbsp;<img align="right"

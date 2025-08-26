@@ -24,11 +24,11 @@
 <p>🌐Also into website development, even though I am extremely lazy and can't even finish a single web page</p>
 <h1 align="left">Stats:</h1>
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=mocchaato&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=mocchaato&show_icons=true&locale=en&layout=compact&theme=gruvbox"
         alt="mocchaato" /></p>
 
 <p>&nbsp;<img align="right"
-        src="https://github-readme-stats.vercel.app/api?username=mocchaato&show_icons=true&locale=en" alt="mocchaato" />
+        src="https://github-readme-stats.vercel.app/api?username=mocchaato&show_icons=true&locale=en&theme=gruvbox" alt="mocchaato" />
 </p>
 <!--
 **macchiapresso/macchiapresso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

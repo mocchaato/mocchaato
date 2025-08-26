@@ -4,8 +4,8 @@
 
 <p><a href="https://twitter.com/moccha_ato" target="blank"><img align="left"
             src="https://img.shields.io/twitter/follow/moccha_ato?logo=twitter&style=for-the-badge"
-            alt="moccha_ato" /></a>
-</p>&nbsp;<img align="right"
+            alt="moccha_ato" /></a></p>
+<p>&nbsp;<img align="right"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" /> <img align="right"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"

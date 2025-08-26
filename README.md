@@ -4,9 +4,9 @@
 <p>☕Although I don´t take coding that seriously, considering that my work area is completely apart from computers and engineering in general, I still enjoy tinkering a bit with programming languages in general (python and JS being the only languages I actually tried to study a bit)</p>
 <p>🌐Also into website development, even though I am extremely lazy and can't even finish a single web page</p>
 <h1 align="left">Stats:</h1>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mocchaato&show_icons=true&locale=en&layout=compact" alt="mocchaato" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mocchaato&show_icons=true&locale=en&layout=compact" alt="mocchaato" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mocchaato&show_icons=true&locale=en" alt="mocchaato" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mocchaato&show_icons=true&locale=en" alt="mocchaato" /></p>
 <!--
 **macchiapresso/macchiapresso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

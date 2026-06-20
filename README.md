@@ -1,5 +1,5 @@
 <h1 align="left">Welcome 👋</h1>
-<h3 align="left">🐰<em>I am Moccha, a student from Brazil that is currently on med school at UFCSPA</em>🐰</h3>
+<h3 align="left">😺<em>I am Moccha, a student from Brazil that is currently on med school at UFCSPA</em>😺</h3>
 
 <a href="https://twitter.com/moccha_ato" target="blank"><img align="left"
             src="https://img.shields.io/twitter/follow/moccha_ato?logo=twitter&style=for-the-badge"
